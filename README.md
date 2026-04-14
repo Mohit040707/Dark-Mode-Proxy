@@ -44,6 +44,14 @@ Do not use on sensitive networks.
 * Auto proxy setup
 * AI brightness control
 
+* Before runnig Software:
+* <img width="1920" height="1080" alt="Screenshot (76)" src="https://github.com/user-attachments/assets/22093de3-79f1-4b66-a52f-50d3ea3e4d7c" />
+
+* After Running Software:
+* <img width="1920" height="1080" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/52077678-2d9f-48e3-bd3d-974edce8d555" />
+
+
+
 ## 👨‍💻 Author
 
 Mohit Kumar
